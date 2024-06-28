@@ -1,0 +1,11 @@
+rollNumber,name,email,semester,year,CS101,ENG101,MATH101,CATH101
+S001,John Doe,john.doe@example.com,1,2023,85,75,92,88
+S002,Jane Smith,jane.smith@example.com,1,2023,78,84,69,81
+S003,Bob Johnson,bob.johnson@example.com,1,2023,90,88,94,79
+S004,Alice Williams,alice.williams@example.com,1,2023,65,70,73,85
+S005,Charlie Brown,charlie.brown@example.com,1,2023,88,92,81,87
+S006,David Wilson,david.wilson@example.com,1,2023,77,68,74,80
+S007,Emily Davis,emily.davis@example.com,1,2023,93,89,95,82
+S008,Frank Clark,frank.clark@example.com,1,2023,82,78,86,76
+S009,Grace Lee,grace.lee@example.com,1,2023,79,83,88,91
+S010,Hannah Hall,hannah.hall@example.com,1,2023,85,80,79,89
