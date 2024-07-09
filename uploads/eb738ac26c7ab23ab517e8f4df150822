@@ -1,0 +1,11 @@
+name,rollNumber,email,semester,year,course1Code,course1Title,course1Credits,course1Marks,course2Code,course2Title,course2Credits,course2Marks
+John Doe,R001,john.doe@example.com,1,2024,C001,Mathematics,4,85,C002,Physics,3,78
+Jane Smith,R002,jane.smith@example.com,1,2024,C001,Mathematics,4,92,C002,Physics,3,85
+Michael Brown,R003,michael.brown@example.com,1,2024,C001,Mathematics,4,88,C002,Physics,3,80
+Emily Johnson,R004,emily.johnson@example.com,1,2024,C001,Mathematics,4,78,C002,Physics,3,75
+David Lee,R005,david.lee@example.com,1,2024,C001,Mathematics,4,95,C002,Physics,3,88
+Sarah Wilson,R006,sarah.wilson@example.com,1,2024,C001,Mathematics,4,82,C002,Physics,3,79
+James Taylor,R007,james.taylor@example.com,1,2024,C001,Mathematics,4,90,C002,Physics,3,84
+Olivia Martinez,R008,olivia.martinez@example.com,1,2024,C001,Mathematics,4,86,C002,Physics,3,82
+William Anderson,R009,william.anderson@example.com,1,2024,C001,Mathematics,4,89,C002,Physics,3,83
+Emma Garcia,R010,emma.garcia@example.com,1,2024,C001,Mathematics,4,94,C002,Physics,3,87
